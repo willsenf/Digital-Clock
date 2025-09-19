@@ -1,12 +1,3 @@
-# Vasanta Group Intranet  
-
-![Build Status](https://img.shields.io/badge/build-passing-brightgreen)  
-![Version](https://img.shields.io/badge/version-1.0.0-blue)  
-![License](https://img.shields.io/badge/license-Private-red)  
-![Status](https://img.shields.io/badge/status-internal-lightgrey)  
-
----
-
 ## 📌 Overview
 The **Vasanta Group Intranet** is a web-based internal system designed to support daily employee activities. It provides features such as document approval, SOP management, dashboards for data monitoring, and integration with the IFCA system.
 
@@ -26,4 +17,3 @@ Access to the intranet is provided using a company email account created by HR t
 - **Database**: (fill in as appropriate)  
 
 ## 📂 Repository Structure
-
