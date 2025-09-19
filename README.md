@@ -15,10 +15,10 @@ The **Vasanta Group Intranet** is a web-based internal system designed to suppor
 Access to the intranet is provided using the existing company email account. Once employees receive the account from HR, intranet and IFCA access are immediately active.
 
 ## 🛠️ Tech Stack
-- **Frontend**: Vue 3 (AdminLTE / Bootstrap template)  
-- **Backend**: (fill in as appropriate)  
+- **Frontend**: Html,Css, Javascript 
+- **Backend**: PHP: yii2 Framework 
 - **API**: IFCA Integration  
-- **Database**: (fill in as appropriate)  
+- **Database**: Microsoft SQL server 
 
 ## 📂 Repository Structure
 
